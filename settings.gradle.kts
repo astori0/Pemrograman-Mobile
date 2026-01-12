@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ModulProject"
+rootProject.name = "FragmentApp"
 include(":app")
  
